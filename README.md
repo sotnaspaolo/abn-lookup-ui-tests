@@ -23,7 +23,7 @@ Follow the steps below to run the tests on your machine:
 ### Running the Tests:
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/your-username/abn-lookup-ui-tests.git
+   git clone https://github.com/sotnaspaolo/abn-lookup-ui-tests.git
    cd abn-lookup-ui-tests
 2. **Restore the project dependencies:**
    ```bash
