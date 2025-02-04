@@ -9,7 +9,6 @@ This repository contains automated UI tests for the ABN Lookup website, develope
 - **Features/**: Contains feature files with Gherkin syntax that describe test scenarios for the ABN Lookup search functionality.
 - **StepDefinitions/**: Contains C# files with step definitions that link feature steps to code execution.
 - **.playwright/**: Contains Playwright configuration and downloaded browser binaries for test execution.
-- **TestResults/**: Stores logs and test output (useful for debugging and analysis).
 - **bin/** and **obj/**: Standard output directories for compiled code and build artifacts.
 
 ## How to Run the Tests
@@ -45,4 +44,8 @@ Follow the steps below to run the tests on your machine:
 1. The tests assume that the ABN Lookup website (https://abr.business.gov.au/) is accessible and functional during testing.
 2. Test Coverage: The current test suite covers direct hit functionality. Further tests can be added for edge cases and additional features of the ABN Lookup website.
 3. Test data (like ABN values) is hardcoded for this project. Future improvements could include more flexible test data setups.
+
+### Sample Test Result in command line:
+<img width="848" alt="image" src="https://github.com/user-attachments/assets/690a7c1b-d3c5-476d-8831-be92264047bb" />
+
 
