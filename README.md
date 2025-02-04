@@ -28,7 +28,7 @@ Follow the steps below to run the tests on your machine:
 2. **Restore the project dependencies:**
    ```bash
    dotnet restore
-3. **Run the tests
+3. **Run the tests**
    ```bash
    dotnet test
   This will build and run all the tests, showing the results in the terminal.
